@@ -1,0 +1,1 @@
+alter table employee add column alternate_email varchar(100);
